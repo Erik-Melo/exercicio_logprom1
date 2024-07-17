@@ -1,7 +1,6 @@
 <?php
 
 /*Exercicio com laco de repetocao (for) e SWITCH CASE*/
-
 //QUANTIDADE DE PATINHOS DIGITADAS
 $patinhos = readline('Digite a quantidade de patinhos: ');
 
